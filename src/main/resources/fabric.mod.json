@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "farrow",
+  "version": "$version",
+  "name": "Fabric Arrow",
+  "description": "Arrow module for Kotlin.",
+  "authors": [
+    "WiredTomato"
+  ],
+  "contact": {
+    "issues": "https://github.com/WiredTomato/farrow/issues",
+    "sources": "https://github.com/WiredTomato/farrow"
+  },
+  "license": "Apache-2.0",
+  "icon": "assets/farrow/icon512.png",
+  "depends": {
+    "fabricloader": ">=0.14.24",
+    "fabric-language-kotlin": "*"
+  }
+}
