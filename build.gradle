@@ -42,7 +42,7 @@ libVersions.forEach { k, v ->
     println("\t${k}:${v}")
 }
 
-version = "${project.modVersion}+kotlin.${arrowVersion}" + (ENV.GITHUB_ACTIONS ? "" : ".local")
+version = "${project.modVersion}+arrow.${arrowVersion}"
 
 loom {
     mods {
