@@ -196,7 +196,7 @@ import java.nio.charset.StandardCharsets
 // A task to ensure that the version being released has not already been released.
 task checkVersion {
     doFirst {
-        def xml = new URL("https://maven.fabricmc.net/net/fabricmc/fabric-language-kotlin/maven-metadata.xml").text
+        def xml = new URL("https://maven.wiredtomato.net/releases/net/wiredtomato/farrow/maven-metadata.xml").text
         def metadata = new XmlSlurper().parseText(xml)
         def versions = metadata.versioning.versions.version*.text()
         if (versions.contains(version)) {
