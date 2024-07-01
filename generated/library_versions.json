@@ -1,11 +1,11 @@
 {
-    "io.arrow-kt:arrow-annotations-jvm": "1.2.3",
-    "io.arrow-kt:arrow-atomic-jvm": "1.2.3",
-    "io.arrow-kt:arrow-continuations-jvm": "1.2.3",
-    "io.arrow-kt:arrow-core-jvm": "1.2.3",
-    "io.arrow-kt:arrow-core-serialization-jvm": "1.2.3",
-    "io.arrow-kt:arrow-fx-coroutines-jvm": "1.2.3",
-    "io.arrow-kt:arrow-fx-stm-jvm": "1.2.3",
-    "io.arrow-kt:arrow-optics-jvm": "1.2.3",
-    "io.arrow-kt:arrow-resilience-jvm": "1.2.3"
+    "io.arrow-kt:arrow-annotations-jvm": "1.2.4",
+    "io.arrow-kt:arrow-atomic-jvm": "1.2.4",
+    "io.arrow-kt:arrow-continuations-jvm": "1.2.4",
+    "io.arrow-kt:arrow-core-jvm": "1.2.4",
+    "io.arrow-kt:arrow-core-serialization-jvm": "1.2.4",
+    "io.arrow-kt:arrow-fx-coroutines-jvm": "1.2.4",
+    "io.arrow-kt:arrow-fx-stm-jvm": "1.2.4",
+    "io.arrow-kt:arrow-optics-jvm": "1.2.4",
+    "io.arrow-kt:arrow-resilience-jvm": "1.2.4"
 }
